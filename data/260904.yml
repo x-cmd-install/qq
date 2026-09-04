@@ -7,7 +7,7 @@ about:
   head: cd262e4
   archived: false
   latestVersion: v0.3.4
-  collectedAt: 2026-09-04T19:29:36Z
+  collectedAt: 2026-09-04T21:04:48Z
 timeline:
   created: 2024-06-23
   lastCommit: 2026-09-04
@@ -85,5 +85,83 @@ total:
   openIssue: 5
   commit: 100
 ---
+path: /home/runner/.x-repo/github.com/JFryy/qq
+collectedAt: 2026-09-04T21:04:49Z
+loc:
+  Go:
+    code: 6691
+    comments: 589
+    blanks: 1187
+    files: 47
+  Sh:
+    code: 342
+    comments: 63
+    blanks: 89
+    files: 1
+  Html:
+    code: 56
+    comments: 0
+    blanks: 1
+    files: 1
+  Hcl:
+    code: 50
+    comments: 0
+    blanks: 15
+    files: 2
+  Protobuf:
+    code: 36
+    comments: 0
+    blanks: 7
+    files: 1
+  Json:
+    code: 33
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 21
+    comments: 8
+    blanks: 7
+    files: 1
+  Makefile:
+    code: 18
+    comments: 0
+    blanks: 7
+    files: 1
+  Xml:
+    code: 13
+    comments: 0
+    blanks: 1
+    files: 1
+  Ini:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 1
+  Yaml:
+    code: 4
+    comments: 6
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 110
+    blanks: 48
+    files: 1
+  Text:
+    code: 0
+    comments: 6
+    blanks: 1
+    files: 1
+total:
+  code: 7319
+  comments: 784
+  blanks: 1370
+  files: 61
 ---
 
