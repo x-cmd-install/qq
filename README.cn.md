@@ -4,7 +4,7 @@
 
 jq, but with many interoperable configuration format transcodings and interactive querying.
 
-![qq](https://repo.x-cmd.io/qq.svg)
+![qq](https://repo.x-cmd.io/qq.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install qq
 - **最新版本**: `v0.3.4` (2026-03-05)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-03-05T00:20:39Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [qq-v0.3.4-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz) | 26.4 MiB | `native/darwin/x64` |
+| [qq-v0.3.4-darwin-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [qq-v0.3.4-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz) | 24.0 MiB | `native/darwin/arm64` |
+| [qq-v0.3.4-darwin-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [qq-v0.3.4-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz) | 24.6 MiB | `native/linux/x64` |
+| [qq-v0.3.4-linux-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [qq-v0.3.4-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz) | 21.8 MiB | `native/linux/arm64` |
+| [qq-v0.3.4-linux-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [qq-v0.3.4-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip) | 24.8 MiB | `native/win/x64` |
+| [qq-v0.3.4-windows-amd64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
+| [qq-v0.3.4-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip) | 21.8 MiB | `native/win/arm64` |
+| [qq-v0.3.4-windows-arm64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
 
 ## 流行度
 
@@ -61,4 +77,4 @@ qq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:42:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:38Z._
