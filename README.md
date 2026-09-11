@@ -12,6 +12,18 @@ jq, but with many interoperable configuration format transcodings and interactiv
 x install qq
 ```
 
+## Code insight
+
+Total: **7,284** lines of code across **52** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 6,691 | 589 | 1,187 | 47 |
+| Sh | 342 | 63 | 89 | 1 |
+| Html | 56 | 0 | 1 | 1 |
+| Hcl | 50 | 0 | 15 | 2 |
+| Protobuf | 36 | 0 | 7 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/JFryy/qq>
@@ -22,6 +34,25 @@ x install qq
 - **Latest**: `v0.3.4` (2026-03-05)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 736 · **Forks**: 14 · **Open issues**: 23 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 14 · **Merged PRs**: 33 · **Open PRs**: 5 · **Closed issues**: 18 · **Open issues**: 5 · **Commits**: 100
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-07-13 | 0 | 3 | 5 | 0 | 2 | 3 |
+| 90d | 2026-06-13 | 0 | 3 | 5 | 0 | 2 | 3 |
+| last180d | 2026-03-15 | 0 | 7 | 5 | 2 | 3 | 7 |
+| 360d | 2025-09-16 | 2 | 8 | 5 | 4 | 3 | 23 |
+| last720d | 2024-09-21 | 7 | 20 | 5 | 9 | 4 | 49 |
 
 ## Release assets
 
@@ -40,34 +71,6 @@ x install qq
 | [qq-v0.3.4-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip) | 21.8 MiB | `native/win/arm64` |
 | [qq-v0.3.4-windows-arm64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
 
-## Popularity
-
-- **Stars**: 736 · **Forks**: 14 · **Open issues**: 23 · **Contributors**: 5
-
-## Totals (cumulative)
-
-- **Releases**: 14 · **Merged PRs**: 33 · **Open PRs**: 5 · **Closed issues**: 18 · **Open issues**: 5 · **Commits**: 100
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 1 | 0 | 1 | 2 |
-| 90d | 2026-06-12 | 0 | 3 | 5 | 0 | 2 | 3 |
-| 360d | 2025-09-15 | 2 | 8 | 5 | 4 | 3 | 23 |
-
-## Code size
-
-Total: **7,284** lines of code across **52** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 6,691 | 589 | 1,187 | 47 |
-| Sh | 342 | 63 | 89 | 1 |
-| Html | 56 | 0 | 1 | 1 |
-| Hcl | 50 | 0 | 15 | 2 |
-| Protobuf | 36 | 0 | 7 | 1 |
-
 ## Improve this data
 
 Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +80,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:37Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:25Z._
