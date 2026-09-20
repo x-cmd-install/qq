@@ -4,7 +4,7 @@
 
 jq, but with many interoperable configuration format transcodings and interactive querying.
 
-![qq](https://repo.x-cmd.io/qq.svg)
+[![x-cmd/install — qq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qq.svg)](https://x-cmd.com/install/qq)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **7,284** lines of code across **52** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 736 · **Forks**: 14 · **Open issues**: 23 · **Contributors**: 5
+- **Stars**: 737 · **Forks**: 14 · **Open issues**: 23 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,284** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 1 | 0 | 1 | 2 |
-| last60d | 2026-07-20 | 0 | 3 | 1 | 0 | 2 | 3 |
-| 90d | 2026-06-20 | 0 | 3 | 5 | 0 | 2 | 3 |
-| last180d | 2026-03-22 | 0 | 6 | 5 | 2 | 3 | 7 |
-| 360d | 2025-09-23 | 2 | 8 | 5 | 4 | 3 | 23 |
-| last720d | 2024-09-28 | 7 | 20 | 5 | 9 | 4 | 49 |
+| 30d | 2026-08-21 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-07-22 | 0 | 3 | 1 | 0 | 2 | 3 |
+| 90d | 2026-06-22 | 0 | 3 | 5 | 0 | 2 | 3 |
+| last180d | 2026-03-24 | 0 | 6 | 5 | 2 | 3 | 7 |
+| 360d | 2025-09-25 | 2 | 8 | 5 | 4 | 3 | 23 |
+| last720d | 2024-09-30 | 7 | 20 | 5 | 9 | 4 | 49 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:42Z._
