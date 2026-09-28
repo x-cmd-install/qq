@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 27708109,
       "digest": "sha256:eea0d102d7333650d4946ca024919f79c3c1097fd208485039a2f619bb6d8275",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-03-05T00:21:56Z",
       "updated_at": "2026-03-05T00:21:57Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:4093ebd4909dc048e83a393a4723986fe41dd3b26510ac40cb4b7d7a019d3019",
-      "download_count": 21,
+      "download_count": 29,
       "created_at": "2026-03-05T00:21:58Z",
       "updated_at": "2026-03-05T00:21:58Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:4c39f092eaef9d7675153f6c2054307f035d57bc4853c30777a463fd35d3244c",
-      "download_count": 24,
+      "download_count": 32,
       "created_at": "2026-03-05T00:21:57Z",
       "updated_at": "2026-03-05T00:21:57Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz.md5"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25798218,
       "digest": "sha256:bf04bcd415cfc7a6707549b8ea1c28aae3c32b33d9963659b5cc1bae1b6e394f",
-      "download_count": 1166,
+      "download_count": 1169,
       "created_at": "2026-03-05T00:21:56Z",
       "updated_at": "2026-03-05T00:21:58Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:199fb7d9ced8bdd8a7bc87647d0128b52013dcdb3a439c79a0265541afe680ed",
-      "download_count": 119,
+      "download_count": 127,
       "created_at": "2026-03-05T00:21:58Z",
       "updated_at": "2026-03-05T00:21:59Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz.md5"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:d070dfafd36aa66467aedf103a71f562e13b8879ab8cae66df92fc7b4c7a4210",
-      "download_count": 103,
+      "download_count": 111,
       "created_at": "2026-03-05T00:22:12Z",
       "updated_at": "2026-03-05T00:22:12Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz.md5"
