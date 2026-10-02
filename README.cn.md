@@ -14,14 +14,14 @@ x install qq
 
 ## 代码洞察
 
-合计: **7,284** 行代码（覆盖前 5 种语言、共 **52** 个文件）。
+合计: **8,276** 行代码（覆盖前 5 种语言、共 **64** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 6,691 | 589 | 1,187 | 47 |
+| Go | 7,676 | 624 | 1,246 | 59 |
 | Sh | 342 | 63 | 89 | 1 |
 | Html | 56 | 0 | 1 | 1 |
-| Hcl | 50 | 0 | 15 | 2 |
+| Hcl | 54 | 0 | 16 | 2 |
 | Protobuf | 36 | 0 | 7 | 1 |
 
 ## 源代码
@@ -31,45 +31,40 @@ x install qq
 
 ## 发布
 
-- **最新版本**: `v0.3.4` (2026-03-05)
-- **最近提交**: 2026-09-04
-- **Release 含资产**: 12 个
+- **最新版本**: `v0.4.0` (2026-10-01)
+- **最近提交**: 2026-10-02
+- **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 738 · **Fork**: 15 · **开放 issue**: 23 · **贡献者**: 5
+- **Star**: 738 · **Fork**: 15 · **开放 issue**: 28 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 33 · **开放 PR**: 5 · **已关闭 issue**: 18 · **开放 issue**: 5 · **提交数**: 100
+- **发布数**: 15 · **已合并 PR**: 37 · **开放 PR**: 5 · **已关闭 issue**: 24 · **开放 issue**: 4 · **提交数**: 104
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 2 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-02 | 0 | 2 | 1 | 0 | 1 | 2 |
-| 90d | 2026-07-03 | 0 | 3 | 5 | 0 | 2 | 3 |
-| last180d | 2026-04-04 | 0 | 6 | 5 | 2 | 3 | 7 |
-| 360d | 2025-10-06 | 2 | 8 | 5 | 4 | 3 | 23 |
-| last720d | 2024-10-11 | 7 | 20 | 5 | 8 | 4 | 48 |
+| 30d | 2026-09-02 | 1 | 5 | 0 | 3 | 2 | 5 |
+| last60d | 2026-08-03 | 1 | 6 | 1 | 4 | 2 | 6 |
+| 90d | 2026-07-04 | 1 | 7 | 5 | 5 | 2 | 7 |
+| last180d | 2026-04-05 | 1 | 10 | 5 | 8 | 2 | 11 |
+| 360d | 2025-10-07 | 3 | 12 | 5 | 10 | 2 | 27 |
+| last720d | 2024-10-12 | 8 | 24 | 5 | 14 | 3 | 52 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [qq-v0.3.4-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz) | 26.4 MiB | `native/darwin/x64` |
-| [qq-v0.3.4-darwin-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
-| [qq-v0.3.4-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz) | 24.0 MiB | `native/darwin/arm64` |
-| [qq-v0.3.4-darwin-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
-| [qq-v0.3.4-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz) | 24.6 MiB | `native/linux/x64` |
-| [qq-v0.3.4-linux-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [qq-v0.3.4-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz) | 21.8 MiB | `native/linux/arm64` |
-| [qq-v0.3.4-linux-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [qq-v0.3.4-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip) | 24.8 MiB | `native/win/x64` |
-| [qq-v0.3.4-windows-amd64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
-| [qq-v0.3.4-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip) | 21.8 MiB | `native/win/arm64` |
-| [qq-v0.3.4-windows-arm64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
+| [checksums.txt](https://github.com/JFryy/qq/releases/download/v0.4.0/checksums.txt) | 570 B | `other` |
+| [qq-v0.4.0-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-amd64.tar.gz) | 13.3 MiB | `native/darwin/x64` |
+| [qq-v0.4.0-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-arm64.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
+| [qq-v0.4.0-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-amd64.tar.gz) | 13.0 MiB | `native/linux/x64` |
+| [qq-v0.4.0-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-arm64.tar.gz) | 11.2 MiB | `native/linux/arm64` |
+| [qq-v0.4.0-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-amd64.zip) | 13.3 MiB | `native/win/x64` |
+| [qq-v0.4.0-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-arm64.zip) | 11.3 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -80,4 +75,4 @@ qq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T05:55:02Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T05:42:14Z._

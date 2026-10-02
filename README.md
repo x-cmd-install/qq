@@ -14,14 +14,14 @@ x install qq
 
 ## Code insight
 
-Total: **7,284** lines of code across **52** files in the top 5 languages.
+Total: **8,276** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,691 | 589 | 1,187 | 47 |
+| Go | 7,676 | 624 | 1,246 | 59 |
 | Sh | 342 | 63 | 89 | 1 |
 | Html | 56 | 0 | 1 | 1 |
-| Hcl | 50 | 0 | 15 | 2 |
+| Hcl | 54 | 0 | 16 | 2 |
 | Protobuf | 36 | 0 | 7 | 1 |
 
 ## Source
@@ -31,45 +31,40 @@ Total: **7,284** lines of code across **52** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.4` (2026-03-05)
-- **Last commit**: 2026-09-04
-- **Assets in release**: 12
+- **Latest**: `v0.4.0` (2026-10-01)
+- **Last commit**: 2026-10-02
+- **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 738 · **Forks**: 15 · **Open issues**: 23 · **Contributors**: 5
+- **Stars**: 738 · **Forks**: 15 · **Open issues**: 28 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 33 · **Open PRs**: 5 · **Closed issues**: 18 · **Open issues**: 5 · **Commits**: 100
+- **Releases**: 15 · **Merged PRs**: 37 · **Open PRs**: 5 · **Closed issues**: 24 · **Open issues**: 4 · **Commits**: 104
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 2 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-02 | 0 | 2 | 1 | 0 | 1 | 2 |
-| 90d | 2026-07-03 | 0 | 3 | 5 | 0 | 2 | 3 |
-| last180d | 2026-04-04 | 0 | 6 | 5 | 2 | 3 | 7 |
-| 360d | 2025-10-06 | 2 | 8 | 5 | 4 | 3 | 23 |
-| last720d | 2024-10-11 | 7 | 20 | 5 | 8 | 4 | 48 |
+| 30d | 2026-09-02 | 1 | 5 | 0 | 3 | 2 | 5 |
+| last60d | 2026-08-03 | 1 | 6 | 1 | 4 | 2 | 6 |
+| 90d | 2026-07-04 | 1 | 7 | 5 | 5 | 2 | 7 |
+| last180d | 2026-04-05 | 1 | 10 | 5 | 8 | 2 | 11 |
+| 360d | 2025-10-07 | 3 | 12 | 5 | 10 | 2 | 27 |
+| last720d | 2024-10-12 | 8 | 24 | 5 | 14 | 3 | 52 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qq-v0.3.4-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz) | 26.4 MiB | `native/darwin/x64` |
-| [qq-v0.3.4-darwin-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
-| [qq-v0.3.4-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz) | 24.0 MiB | `native/darwin/arm64` |
-| [qq-v0.3.4-darwin-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
-| [qq-v0.3.4-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz) | 24.6 MiB | `native/linux/x64` |
-| [qq-v0.3.4-linux-amd64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [qq-v0.3.4-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz) | 21.8 MiB | `native/linux/arm64` |
-| [qq-v0.3.4-linux-arm64.tar.gz.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [qq-v0.3.4-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip) | 24.8 MiB | `native/win/x64` |
-| [qq-v0.3.4-windows-amd64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
-| [qq-v0.3.4-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip) | 21.8 MiB | `native/win/arm64` |
-| [qq-v0.3.4-windows-arm64.zip.md5](https://github.com/JFryy/qq/releases/download/v0.3.4/qq-v0.3.4-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
+| [checksums.txt](https://github.com/JFryy/qq/releases/download/v0.4.0/checksums.txt) | 570 B | `other` |
+| [qq-v0.4.0-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-amd64.tar.gz) | 13.3 MiB | `native/darwin/x64` |
+| [qq-v0.4.0-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-arm64.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
+| [qq-v0.4.0-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-amd64.tar.gz) | 13.0 MiB | `native/linux/x64` |
+| [qq-v0.4.0-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-arm64.tar.gz) | 11.2 MiB | `native/linux/arm64` |
+| [qq-v0.4.0-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-amd64.zip) | 13.3 MiB | `native/win/x64` |
+| [qq-v0.4.0-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-arm64.zip) | 11.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -80,4 +75,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:55:01Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:42:12Z._
