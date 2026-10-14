@@ -14,11 +14,11 @@ x install qq
 
 ## Code insight
 
-Total: **8,328** lines of code across **64** files in the top 5 languages.
+Total: **8,453** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,728 | 624 | 1,249 | 59 |
+| Go | 7,853 | 634 | 1,257 | 59 |
 | Sh | 342 | 63 | 89 | 1 |
 | Html | 56 | 0 | 1 | 1 |
 | Hcl | 54 | 0 | 16 | 2 |
@@ -32,27 +32,27 @@ Total: **8,328** lines of code across **64** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.0` (2026-10-01)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 740 · **Forks**: 17 · **Open issues**: 30 · **Contributors**: 6
+- **Stars**: 740 · **Forks**: 17 · **Open issues**: 30 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 38 · **Open PRs**: 6 · **Closed issues**: 24 · **Open issues**: 6 · **Commits**: 105
+- **Releases**: 15 · **Merged PRs**: 39 · **Open PRs**: 5 · **Closed issues**: 25 · **Open issues**: 5 · **Commits**: 106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 5 | 1 | 3 | 4 | 5 |
-| last60d | 2026-08-14 | 1 | 7 | 2 | 4 | 4 | 7 |
-| 90d | 2026-07-15 | 1 | 8 | 6 | 5 | 4 | 8 |
-| last180d | 2026-04-16 | 1 | 11 | 6 | 7 | 4 | 12 |
-| 360d | 2025-10-18 | 3 | 13 | 6 | 10 | 4 | 28 |
-| last720d | 2024-10-23 | 8 | 25 | 6 | 14 | 5 | 51 |
+| 30d | 2026-09-14 | 1 | 6 | 0 | 4 | 3 | 6 |
+| last60d | 2026-08-15 | 1 | 8 | 1 | 5 | 3 | 8 |
+| 90d | 2026-07-16 | 1 | 9 | 1 | 6 | 3 | 9 |
+| last180d | 2026-04-17 | 1 | 12 | 5 | 8 | 3 | 13 |
+| 360d | 2025-10-19 | 3 | 14 | 5 | 11 | 3 | 29 |
+| last720d | 2024-10-24 | 8 | 26 | 5 | 15 | 4 | 52 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:56:00Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:58:00Z._
