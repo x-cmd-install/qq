@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 570,
       "digest": "sha256:64961dc1c7431085063951e88d611c55acddc928c229f0203b84fa3b1465532b",
-      "download_count": 273,
+      "download_count": 274,
       "created_at": "2026-10-01T21:57:09Z",
       "updated_at": "2026-10-01T21:57:09Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.4.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12423011,
       "digest": "sha256:fcbbe382d29f60a52cb6a63fad675666fa8b06c36445701001c64eeb696d679b",
-      "download_count": 129,
+      "download_count": 131,
       "created_at": "2026-10-01T21:57:07Z",
       "updated_at": "2026-10-01T21:57:09Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13625964,
       "digest": "sha256:38478a53ffbc343f64b7c41a7599767e51a92359d25fffa12c495d235317cd6d",
-      "download_count": 429,
+      "download_count": 432,
       "created_at": "2026-10-01T21:57:07Z",
       "updated_at": "2026-10-01T21:57:09Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-amd64.tar.gz"
