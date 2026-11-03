@@ -14,15 +14,15 @@ x install qq
 
 ## 代码洞察
 
-合计: **8,453** 行代码（覆盖前 5 种语言、共 **64** 个文件）。
+合计: **9,698** 行代码（覆盖前 5 种语言、共 **70** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 7,853 | 634 | 1,257 | 59 |
+| Go | 9,056 | 735 | 1,356 | 64 |
 | Sh | 342 | 63 | 89 | 1 |
 | Html | 56 | 0 | 1 | 1 |
 | Hcl | 54 | 0 | 16 | 2 |
-| Protobuf | 36 | 0 | 7 | 1 |
+| Yaml | 44 | 6 | 0 | 2 |
 
 ## 源代码
 
@@ -31,40 +31,40 @@ x install qq
 
 ## 发布
 
-- **最新版本**: `v0.4.0` (2026-10-01)
-- **最近提交**: 2026-10-22
+- **最新版本**: `v0.5.0` (2026-11-02)
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 740 · **Fork**: 17 · **开放 issue**: 30 · **贡献者**: 7
+- **Star**: 740 · **Fork**: 17 · **开放 issue**: 30 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 40 · **开放 PR**: 5 · **已关闭 issue**: 25 · **开放 issue**: 5 · **提交数**: 107
+- **发布数**: 16 · **已合并 PR**: 43 · **开放 PR**: 1 · **已关闭 issue**: 26 · **开放 issue**: 4 · **提交数**: 111
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 1 | 1 | 1 | 3 |
-| last60d | 2026-09-03 | 1 | 7 | 1 | 4 | 3 | 7 |
-| 90d | 2026-08-04 | 1 | 9 | 1 | 5 | 3 | 9 |
-| last180d | 2026-05-06 | 1 | 12 | 5 | 7 | 3 | 12 |
-| 360d | 2025-11-07 | 3 | 15 | 5 | 11 | 3 | 30 |
-| last720d | 2024-11-12 | 7 | 26 | 5 | 15 | 4 | 52 |
+| 30d | 2026-10-04 | 1 | 4 | 0 | 2 | 0 | 7 |
+| last60d | 2026-09-04 | 2 | 8 | 0 | 5 | 2 | 11 |
+| 90d | 2026-08-05 | 2 | 10 | 0 | 6 | 2 | 13 |
+| last180d | 2026-05-07 | 2 | 15 | 1 | 8 | 2 | 16 |
+| 360d | 2025-11-08 | 4 | 18 | 1 | 12 | 2 | 34 |
+| last720d | 2024-11-13 | 8 | 29 | 1 | 16 | 3 | 56 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/JFryy/qq/releases/download/v0.4.0/checksums.txt) | 570 B | `other` |
-| [qq-v0.4.0-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-amd64.tar.gz) | 13.3 MiB | `native/darwin/x64` |
-| [qq-v0.4.0-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-darwin-arm64.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
-| [qq-v0.4.0-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-amd64.tar.gz) | 13.0 MiB | `native/linux/x64` |
-| [qq-v0.4.0-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-linux-arm64.tar.gz) | 11.2 MiB | `native/linux/arm64` |
-| [qq-v0.4.0-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-amd64.zip) | 13.3 MiB | `native/win/x64` |
-| [qq-v0.4.0-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.4.0/qq-v0.4.0-windows-arm64.zip) | 11.3 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/JFryy/qq/releases/download/v0.5.0/checksums.txt) | 570 B | `other` |
+| [qq-v0.5.0-darwin-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-darwin-amd64.tar.gz) | 13.4 MiB | `native/darwin/x64` |
+| [qq-v0.5.0-darwin-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-darwin-arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
+| [qq-v0.5.0-linux-amd64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-linux-amd64.tar.gz) | 13.1 MiB | `native/linux/x64` |
+| [qq-v0.5.0-linux-arm64.tar.gz](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-linux-arm64.tar.gz) | 11.3 MiB | `native/linux/arm64` |
+| [qq-v0.5.0-windows-amd64.zip](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-windows-amd64.zip) | 13.4 MiB | `native/win/x64` |
+| [qq-v0.5.0-windows-arm64.zip](https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-windows-arm64.zip) | 11.4 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ qq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:03:19Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T06:50:08Z._
