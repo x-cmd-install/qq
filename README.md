@@ -47,12 +47,12 @@ Total: **10,890** lines of code across **78** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 6 | 1 | 6 | 19 | 13 |
-| last60d | 2026-09-08 | 2 | 11 | 1 | 11 | 20 | 17 |
-| 90d | 2026-08-09 | 2 | 13 | 1 | 12 | 20 | 19 |
-| last180d | 2026-05-11 | 2 | 17 | 2 | 13 | 20 | 22 |
-| 360d | 2025-11-12 | 4 | 21 | 2 | 18 | 20 | 40 |
-| last720d | 2024-11-17 | 8 | 32 | 2 | 22 | 21 | 62 |
+| 30d | 2026-10-09 | 1 | 6 | 1 | 6 | 19 | 11 |
+| last60d | 2026-09-09 | 2 | 11 | 1 | 11 | 20 | 17 |
+| 90d | 2026-08-10 | 2 | 13 | 1 | 12 | 20 | 19 |
+| last180d | 2026-05-12 | 2 | 17 | 2 | 13 | 20 | 20 |
+| 360d | 2025-11-13 | 4 | 21 | 2 | 18 | 20 | 40 |
+| last720d | 2024-11-18 | 8 | 32 | 2 | 22 | 21 | 62 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:03:39Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:24Z._
