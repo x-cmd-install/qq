@@ -37,22 +37,22 @@ Total: **10,890** lines of code across **78** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 739 · **Forks**: 24 · **Open issues**: 54 · **Contributors**: 10
+- **Stars**: 739 · **Forks**: 25 · **Open issues**: 55 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 46 · **Open PRs**: 2 · **Closed issues**: 32 · **Open issues**: 22 · **Commits**: 117
+- **Releases**: 16 · **Merged PRs**: 46 · **Open PRs**: 4 · **Closed issues**: 32 · **Open issues**: 23 · **Commits**: 117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 6 | 1 | 6 | 19 | 11 |
-| last60d | 2026-09-09 | 2 | 11 | 1 | 11 | 20 | 17 |
-| 90d | 2026-08-10 | 2 | 13 | 1 | 12 | 20 | 19 |
-| last180d | 2026-05-12 | 2 | 17 | 2 | 13 | 20 | 20 |
-| 360d | 2025-11-13 | 4 | 21 | 2 | 18 | 20 | 40 |
-| last720d | 2024-11-18 | 8 | 32 | 2 | 22 | 21 | 62 |
+| 30d | 2026-10-10 | 1 | 5 | 3 | 6 | 20 | 11 |
+| last60d | 2026-09-10 | 2 | 11 | 3 | 11 | 21 | 17 |
+| 90d | 2026-08-11 | 2 | 13 | 3 | 12 | 21 | 19 |
+| last180d | 2026-05-13 | 2 | 17 | 4 | 13 | 21 | 20 |
+| 360d | 2025-11-14 | 4 | 21 | 4 | 18 | 21 | 40 |
+| last720d | 2024-11-19 | 8 | 32 | 4 | 22 | 22 | 62 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for qq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:24Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:19:31Z._
