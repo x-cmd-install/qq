@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 570,
       "digest": "sha256:180bad15fa7d510849dc430172cf46e01c269acc1bd72682b3a678e0932366ab",
-      "download_count": 86,
+      "download_count": 100,
       "created_at": "2026-11-02T19:10:25Z",
       "updated_at": "2026-11-02T19:10:25Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.5.0/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13686741,
       "digest": "sha256:8a445b3986ac0fb003b0e341c27dfbe8c4ad43a8d7174e69e76898409909c016",
-      "download_count": 142,
+      "download_count": 150,
       "created_at": "2026-11-02T19:10:23Z",
       "updated_at": "2026-11-02T19:10:24Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11836401,
       "digest": "sha256:432604472519ab6d94ed113d9d9fae19a87f04b687c20d8f4b473a952f8ede59",
-      "download_count": 49,
+      "download_count": 55,
       "created_at": "2026-11-02T19:10:25Z",
       "updated_at": "2026-11-02T19:10:26Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11924451,
       "digest": "sha256:5ddc76e9ab5010cf063e453fac4fb10a85f688d154ea5b9bd62eb4b0d35434d9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-02T19:10:23Z",
       "updated_at": "2026-11-02T19:10:24Z",
       "browser_download_url": "https://github.com/JFryy/qq/releases/download/v0.5.0/qq-v0.5.0-windows-arm64.zip"
